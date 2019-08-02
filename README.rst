@@ -131,3 +131,9 @@ The icon files are licensed under the `CC BY-SA 4.0 <https://creativecommons.org
 
 - `doc/logo.png <doc/logo.png>`_
 - `doc/logo.svg <doc/logo.svg>`_
+
+
+<a href="https://scan.coverity.com/projects/zrwy1987_pylint">
+  <img alt="Coverity Scan Build Status"
+       src="https://scan.coverity.com/projects/18896/badge.svg"/>
+</a>
